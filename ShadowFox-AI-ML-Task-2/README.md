@@ -21,8 +21,3 @@ The dataset used is from the **Sample - Superstore** and contains various column
 - **Python** (Pandas for data analysis)
 - **Matplotlib** & **Seaborn** for visualizations
 - **Jupyter Notebooks** for exploration
-
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aditichoudhury/shadowfox_store_sales_profit_analysis.git
